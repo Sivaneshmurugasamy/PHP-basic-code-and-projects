@@ -1,5 +1,8 @@
 <?php
-$cars=array("rolce royce","maruthi","nano");
-var_dump($cars);
+$x=("hi");
+var_dump(is_int($x));
+var_dump(is_float($x));
+var_dump(is_string($x));
+
 
 ?>
